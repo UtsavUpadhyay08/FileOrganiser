@@ -25,9 +25,3 @@ File Organizer is a command-line tool designed to help you manage and organize y
 
 - Displays information about all available commands.
 
-## Installation
-
-```bash
-git clone https://github.com/your_username/file-organizer.git
-cd file-organizer
-./install.sh
